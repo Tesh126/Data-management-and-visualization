@@ -1,5 +1,4 @@
-# Data-management-and-visualization
-
+# Data Visualization Projects
 
 ## Project 1: **Interactive Power BI Dashboard for Master of Business Analytics Eligibility Analysis**
 
@@ -51,7 +50,7 @@ Replicate the eligibility analysis from Project 1 using Tableau to leverage its 
 
 ---
 
-## Project 3: **Power BI Dashboard for Women’s Shoes Dataset**
+## Project 3: **Tableau Dashboard for Women’s Shoes Dataset**
 
 ### Dataset:
 The dataset, sourced from Kaggle ([link](https://www.kaggle.com/datasets/datafiniti/womens-shoes-prices)), includes various features such as shoe brand, price, date added, and updated.
@@ -74,7 +73,7 @@ Analyze and visualize key insights about women’s shoes to identify trends, pri
    - Identified top brands based on average price and frequency of new releases.
 
 ### Tools Used:
-- **Power BI** for data wrangling and visualization.
+- **Tableau** for data wrangling and visualization.
 
 ---
 
@@ -84,3 +83,4 @@ Analyze and visualize key insights about women’s shoes to identify trends, pri
 - Successfully automated calculations and created dynamic visuals to aid decision-making.
 
 ---
+
